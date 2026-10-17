@@ -1,0 +1,6 @@
+{
+  "name": "Oneiric — Multimodal Surrealist Dream Journal",
+  "description": "Voice-record waking dreams instantly, generate high-resolution surrealist artwork with Gemini, explore Jungian archetypes, and converse with an AI dream analyst.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
